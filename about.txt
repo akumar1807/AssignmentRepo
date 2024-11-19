@@ -1,0 +1,1 @@
+Hello, welcome to my first project in Git. This project covers the basics of Git, including adding new files, staging new changes and committing them. We will also touch upon creating new branches.
